@@ -109,14 +109,6 @@ p:last-child { margin-bottom:0 }
     top:calc(-1.2em - 1px);
 }
 
-div {
-  display: flex;
-  justify-content: center;
-}
-
-img {
-  width: 250px;
-}
 
 .media-icons {
   margin-top: 10px;
